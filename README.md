@@ -103,13 +103,6 @@ Handles logic for adding, updating, deleting, and fetching students.
 * Routes
 Manages application endpoints and connects them with controllers.
 
-## Output
-The application displays:
-* List of students with name and roll number
-* Buttons for Edit and Delete
-* Form to add new students
-* Edit page to update student details
-
 ## Learning Outcomes
 * After completing this experiment, I learned:
 * How to perform CRUD operations using MongoDB
