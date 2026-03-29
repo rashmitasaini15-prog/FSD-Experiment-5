@@ -6,7 +6,7 @@ Subject: Full Stack Development
 University: Chandigarh University
 
 
-# Experiment 4.1: Product CRUD API using Mongoose
+# Experiment 5.1: Product CRUD API using Mongoose
 
 ## Aim
 To perform CRUD (Create, Read, Update, Delete) operations on a product database using Mongoose.
@@ -54,7 +54,7 @@ After completing this experiment, I learned:
 * How CRUD operations work in backend
 
 
-# Experiment 4.2: Student Management System (MVC)
+# Experiment 5.2: Student Management System (MVC)
 ## Aim
 To build a Student Management System using MVC architecture with Node.js, Express, MongoDB, and EJS.
 
